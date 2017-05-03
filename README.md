@@ -17,4 +17,6 @@ The system has three user account types. Depending on their account type, they a
  
  # mySQL Database
  
- The file 
+The document surgery.sql include the complete set of instructions to create a complete sample data base. The sample users have already been incluided in this database.
+
+The program have been written using "root" as user for mySQL, and an empty password in the port 3306 of the local host.
